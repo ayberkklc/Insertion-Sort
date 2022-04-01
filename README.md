@@ -72,3 +72,5 @@ Average case kapsamına girer.
 4. [3, 5, 7, 8]
 
 ```
+
+[Patika profilim](https://app.patika.dev/ayberkklc)
